@@ -36,7 +36,7 @@
 
 <br/>
 
-I enjoy building the parts of software users rarely notice — but rely on every day.
+I enjoy building the parts of software users rarely notice - but rely on every day.
 
 APIs, databases, backend systems, architecture. The quiet layers underneath. My curiosity usually starts there: how something works, where it breaks, and what would make it calmer under load.
 

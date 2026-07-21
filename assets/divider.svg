@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" fill="none" role="img" aria-label="Section divider">
+  <defs>
+    <linearGradient id="divFade" x1="0" y1="12" x2="1200" y2="12" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E6E6E6" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#E6E6E6" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#C5D0BB" stop-opacity="1"/>
+      <stop offset="82%" stop-color="#E6E6E6" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#E6E6E6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="40" y1="12" x2="1160" y2="12" stroke="url(#divFade)" stroke-width="1"/>
+  <circle cx="600" cy="12" r="2.5" fill="#A5B19E"/>
+</svg>

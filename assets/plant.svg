@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="320" viewBox="0 0 200 320" fill="none" role="img" aria-label="Minimal botanical illustration">
+  <!-- soft shadow -->
+  <ellipse cx="100" cy="302" rx="36" ry="5" fill="#C4C4C4" opacity="0.25"/>
+  <!-- simple ceramic vessel — Muji -->
+  <path d="M72 210 L78 292 H122 L128 210 Z" fill="#F2F2F2" stroke="#C8C8C8" stroke-width="1"/>
+  <ellipse cx="100" cy="210" rx="28" ry="5" fill="#FFFFFF" stroke="#C8C8C8" stroke-width="1"/>
+  <!-- single main stem -->
+  <path d="M100 210 C99 160 96 110 92 48" stroke="#6F8168" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- two quiet side stems -->
+  <path d="M98 150 C78 120 62 100 48 92" stroke="#7B8F74" stroke-width="1.2" stroke-linecap="round"/>
+  <path d="M100 130 C118 105 138 88 158 78" stroke="#7B8F74" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- five elongated leaves — sumi simplicity -->
+  <ellipse cx="92" cy="48" rx="20" ry="8" transform="rotate(-12 92 48)" fill="#8B9A7D"/>
+  <ellipse cx="78" cy="78" rx="16" ry="6.5" transform="rotate(-55 78 78)" fill="#A5B19E"/>
+  <ellipse cx="108" cy="72" rx="16" ry="6.5" transform="rotate(48 108 72)" fill="#9EAD91"/>
+  <ellipse cx="48" cy="92" rx="15" ry="6" transform="rotate(-28 48 92)" fill="#A5B19E"/>
+  <ellipse cx="158" cy="78" rx="15" ry="6" transform="rotate(24 158 78)" fill="#8B9A7D"/>
+  <!-- tiny tip leaf -->
+  <ellipse cx="88" cy="32" rx="11" ry="4.5" transform="rotate(-8 88 32)" fill="#7B8F74"/>
+</svg>
